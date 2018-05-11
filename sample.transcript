@@ -1,0 +1,122 @@
+[
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "6e26511a-a3f2-4f06-95c6-cc6fcc21d828",
+    "recipient": {
+      "id": "20913e63-433a-3696-9488-e62d8dd0fe3f",
+      "name": "John Doe",
+      "role": "user"
+    },
+    "from": {
+      "id": "1f0b4c9e-568b-3d92-8b94-fb6b20422b1e",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "text": "Hello!",
+    "timestamp": "2018-05-10T03:39:56.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "4c93d87f-a3c6-40f8-9d12-b55aad7d11bd",
+    "recipient": {
+      "id": "1f0b4c9e-568b-3d92-8b94-fb6b20422b1e",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "20913e63-433a-3696-9488-e62d8dd0fe3f",
+      "name": "John Doe",
+      "role": "user"
+    },
+    "text": "hey",
+    "timestamp": "2018-05-10T03:39:58.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "caedf578-164c-4a12-a3c9-b60f712fe702",
+    "recipient": {
+      "id": "20913e63-433a-3696-9488-e62d8dd0fe3f",
+      "name": "John Doe",
+      "role": "user"
+    },
+    "from": {
+      "id": "1f0b4c9e-568b-3d92-8b94-fb6b20422b1e",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "text": "",
+    "timestamp": "2018-05-10T03:40:05.000Z",
+    "type": "typing",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "ae879e7b-0437-4397-8401-ba39e83441c5",
+    "recipient": {
+      "id": "20913e63-433a-3696-9488-e62d8dd0fe3f",
+      "name": "John Doe",
+      "role": "user"
+    },
+    "from": {
+      "id": "1f0b4c9e-568b-3d92-8b94-fb6b20422b1e",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "text": "What can I do for you?",
+    "timestamp": "2018-05-10T03:40:00.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "08bc0cce-ff9a-487e-8c3a-460fed8eef4f",
+    "recipient": {
+      "id": "1f0b4c9e-568b-3d92-8b94-fb6b20422b1e",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "20913e63-433a-3696-9488-e62d8dd0fe3f",
+      "name": "John Doe",
+      "role": "user"
+    },
+    "text": "Actually nevermind, goodbye.",
+    "timestamp": "2018-05-10T03:40:07.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "1"
+    },
+    "id": "5b7b2291-6e81-4786-a457-2322af53a98a",
+    "recipient": {
+      "id": "20913e63-433a-3696-9488-e62d8dd0fe3f",
+      "name": "John Doe",
+      "role": "user"
+    },
+    "from": {
+      "id": "1f0b4c9e-568b-3d92-8b94-fb6b20422b1e",
+      "name": "Bot",
+      "role": "bot"
+    },
+    "text": "bye!\n",
+    "timestamp": "2018-05-10T03:40:09.000Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]

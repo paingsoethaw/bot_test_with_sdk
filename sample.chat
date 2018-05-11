@@ -1,0 +1,9 @@
+user=John Doe
+bot=Bot
+
+bot: Hello!
+user: hey
+bot: [Typing][Delay=3000]
+What can I do for you?
+user: Actually nevermind, goodbye.
+bot: bye!
